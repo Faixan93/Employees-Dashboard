@@ -253,7 +253,7 @@ export default function Dashboard() {
                       <div className="flex items-center space-x-4">
                         <span className="text-sm text-gray-500">{dept.percentage.toFixed(1)}%</span>
                         <span className={`px-3 py-1 rounded-full text-sm font-semibold ${color.light} ${color.text}`}>
-                          {dept.count} people
+                          {dept.count} person
                         </span>
                       </div>
                     </div>
