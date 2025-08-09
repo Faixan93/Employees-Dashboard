@@ -1,0 +1,52 @@
+{
+  "employees": [
+    {
+      "name": "Alice Khan",
+      "email": "alice@example.com",
+      "designation": "Frontend Dev",
+      "department": "Engineering",
+      "joiningDate": "2024-01-10",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "Bilal Ahmed",
+      "email": "bilal@example.com",
+      "designation": "Product Manager",
+      "department": "Product",
+      "joiningDate": "2023-07-22"
+    },
+    {
+      "id": "3",
+      "name": "Carmen Li",
+      "email": "carmen@example.com",
+      "designation": "HR Specialist",
+      "department": "HR",
+      "joiningDate": "2022-11-05"
+    },
+    {
+      "name": "Faixan",
+      "email": "faizanfaheem93@gmail.com",
+      "designation": "software",
+      "department": "frontend",
+      "joiningDate": "2025-08-09",
+      "id": "17x3A0g"
+    },
+    {
+      "name": "Ali",
+      "email": "ali2@gmail.com",
+      "designation": "wordpress",
+      "department": "developer",
+      "joiningDate": "2025-08-09",
+      "id": "PZXE6Hv"
+    },
+    {
+      "name": "Faheem",
+      "email": "faheem@gmail.com",
+      "designation": "professor",
+      "department": "princple",
+      "joiningDate": "2025-08-10",
+      "id": "yNpIPna"
+    }
+  ]
+}
